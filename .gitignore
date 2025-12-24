@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+# Virtual environments
+tf-metal-env/
+
+# Python packaging
+pip-wheel-metadata/
+
+# macOS
+.DS_Store
+
+# Logs and runtime files
+logs/
+*.log
+*.sqlite3
+*.db
+
+# TensorBoard / Keras-Tuner / training logs
+kt_logs/
+tensorboard/
+tb_logs/
+events.out.tfevents.*
+
+# Cache / temp
+.cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+

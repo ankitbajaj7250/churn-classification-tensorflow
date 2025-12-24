@@ -1,0 +1,11 @@
+tensorflow-macos
+tensorflow-metal
+pandas
+numpy
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
+keras-tuner
+pickle-mixin
